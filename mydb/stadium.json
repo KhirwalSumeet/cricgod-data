@@ -1,0 +1,281 @@
+[
+  {
+    "id": 1,
+    "name": "Rajiv Gandhi International Stadium, Uppal",
+    "capacity": 55000,
+    "country": "India",
+    "city": "Hyderabad",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Maharashtra Cricket Association Stadium",
+    "capacity": 37406,
+    "country": "India",
+    "city": "Pune",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Saurashtra Cricket Association Stadium",
+    "capacity": 28000,
+    "country": "India",
+    "city": "Rajkot",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Holkar Cricket Stadium",
+    "capacity": 30000,
+    "country": "India",
+    "city": "Indore",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 5,
+    "name": "M Chinnaswamy Stadium",
+    "capacity": 40000,
+    "country": "India",
+    "city": "Bangalore",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Wankhede Stadium",
+    "capacity": 33108,
+    "country": "India",
+    "city": "Mumbai",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 7,
+    "name": "Eden Gardens",
+    "capacity": 68000,
+    "country": "India",
+    "city": "Kolkata",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 8,
+    "name": "Feroz Shah Kotla",
+    "capacity": 41820,
+    "country": "India",
+    "city": "Delhi",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 9,
+    "name": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "capacity": 26000,
+    "country": "India",
+    "city": "Chandigarh",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 10,
+    "name": "Green Park",
+    "capacity": 40000,
+    "country": "India",
+    "city": "Kanpur",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 11,
+    "name": "Sawai Mansingh Stadium",
+    "capacity": 30000,
+    "country": "India",
+    "city": "Jaipur",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 12,
+    "name": "MA Chidambaram Stadium, Chepauk",
+    "capacity": 50000,
+    "country": "India",
+    "city": "Chennai",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 13,
+    "name": "Newlands",
+    "capacity": 51900,
+    "country": "South Africa",
+    "city": "Cape Town",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 14,
+    "name": "St George's Park",
+    "capacity": 19000,
+    "country": "South Africa",
+    "city": "Port Elizabeth",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 15,
+    "name": "Kingsmead",
+    "capacity": 25000,
+    "country": "South Africa",
+    "city": "Durban",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 16,
+    "name": "SuperSport Park",
+    "capacity": 22000,
+    "country": "South Africa",
+    "city": "Centurion",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 17,
+    "name": "Buffalo Park",
+    "capacity": 20000,
+    "country": "South Africa",
+    "city": "East London",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 18,
+    "name": "New Wanderers Stadium",
+    "capacity": 34000,
+    "country": "South Africa",
+    "city": "Johannesburg",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 19,
+    "name": "De Beers Diamond Oval",
+    "capacity": 11000,
+    "country": "South Africa",
+    "city": "Kimberley",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 20,
+    "name": "OUTsurance Oval",
+    "capacity": 20000,
+    "country": "South Africa",
+    "city": "Bloemfontein",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 21,
+    "name": "Sardar Patel Stadium, Motera",
+    "capacity": 49000,
+    "country": "India",
+    "city": "Ahmedabad",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 22,
+    "name": "Barabati Stadium",
+    "capacity": 45000,
+    "country": "India",
+    "city": "Cuttack",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 23,
+    "name": "Vidarbha Cricket Association Stadium, Jamtha",
+    "capacity": 45000,
+    "country": "India",
+    "city": "Nagpur",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 24,
+    "name": "Himachal Pradesh Cricket Association Stadium",
+    "capacity": 23000,
+    "country": "India",
+    "city": "Dharamsala",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 25,
+    "name": "Nehru Stadium",
+    "capacity": 60000,
+    "country": "India",
+    "city": "Kochi",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 26,
+    "name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "capacity": 27500,
+    "country": "India",
+    "city": "Visakhapatnam",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 27,
+    "name": "Shaheed Veer Narayan Singh International Stadium",
+    "capacity": 65000,
+    "country": "India",
+    "city": "Raipur",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 28,
+    "name": "JSCA International Stadium Complex",
+    "capacity": 50000,
+    "country": "India",
+    "city": "Ranchi",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 29,
+    "name": "Sheikh Zayed Stadium",
+    "capacity": 20000,
+    "country": "United Arab Emirates",
+    "city": "Abu Dhabi",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 30,
+    "name": "Sharjah Cricket Stadium",
+    "capacity": 16000,
+    "country": "United Arab Emirates",
+    "city": "Sharjah",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  },
+  {
+    "id": 31,
+    "name": "Dubai International Cricket Stadium",
+    "capacity": 25000,
+    "country": "United Arab Emirates",
+    "city": "Dubai",
+    "createdAt": "2019-03-26T11:40:09.000Z",
+    "updatedAt": "2019-03-26T11:40:09.000Z"
+  }
+]

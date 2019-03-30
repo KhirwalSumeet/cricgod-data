@@ -1,0 +1,188 @@
+[
+  {
+    "name": "Rajiv Gandhi International Stadium, Uppal",
+    "city": "Hyderabad",
+    "capacity" : 55000,
+    "country" : "India"
+  },
+  {
+    "name": "Maharashtra Cricket Association Stadium",
+    "city": "Pune",
+    "capacity" : 37406 ,
+    "country" : "India"
+  },
+  {
+    "name": "Saurashtra Cricket Association Stadium",
+    "city": "Rajkot",
+    "capacity" : 28000,
+    "country" : "India"
+  },
+  {
+    "name": "Holkar Cricket Stadium",
+    "city": "Indore",
+    "capacity" : 30000,
+    "country" : "India"
+  },
+  {
+    "name": "M Chinnaswamy Stadium",
+    "city": "Bangalore",
+    "capacity" : 40000,
+    "country" : "India"
+  },
+  {
+    "name": "Wankhede Stadium",
+    "city": "Mumbai",
+    "capacity" : 33108,
+    "country" : "India"
+  },
+  {
+    "name": "Eden Gardens",
+    "city": "Kolkata",
+    "capacity" : 68000,
+    "country" : "India"
+  },
+  {
+    "name": "Feroz Shah Kotla",
+    "city": "Delhi",
+    "capacity" : 41820,
+    "country" : "India"
+  },
+  {
+    "name": "Punjab Cricket Association IS Bindra Stadium, Mohali",
+    "city": "Chandigarh",
+    "capacity" : 26000,
+    "country" : "India"
+  },
+  {
+    "name": "Green Park",
+    "city": "Kanpur",
+    "capacity" : 40000,
+    "country" : "India"
+  },
+  {
+    "name": "Sawai Mansingh Stadium",
+    "city": "Jaipur",
+    "capacity" : 30000,
+    "country" : "India"
+  },
+  {
+    "name": "MA Chidambaram Stadium, Chepauk",
+    "city": "Chennai",
+    "capacity" : 50000,
+    "country" : "India"
+  },
+  {
+    "name": "Newlands",
+    "city": "Cape Town",
+    "capacity" : 51900,
+    "country" : "South Africa"
+  },
+  {
+    "name": "St George's Park",
+    "city": "Port Elizabeth",
+    "capacity" : 19000,
+    "country" : "South Africa"
+  },
+  {
+    "name": "Kingsmead",
+    "city": "Durban",
+    "capacity" : 25000,
+    "country" : "South Africa"
+  },
+  {
+    "name": "SuperSport Park",
+    "city": "Centurion",
+    "capacity" : 22000,
+    "country" : "South Africa"
+  },
+  {
+    "name": "Buffalo Park",
+    "city": "East London",
+    "capacity" : 20000,
+    "country" : "South Africa"
+  },
+  {
+    "name": "New Wanderers Stadium",
+    "city": "Johannesburg",
+    "capacity" : 34000,
+    "country" : "South Africa"
+  },
+  {
+    "name": "De Beers Diamond Oval",
+    "city": "Kimberley",
+    "capacity" : 11000,
+    "country" : "South Africa"
+  },
+  {
+    "name": "OUTsurance Oval",
+    "city": "Bloemfontein",
+    "capacity" : 20000,
+    "country" : "South Africa"
+  },
+  {
+    "name": "Sardar Patel Stadium, Motera",
+    "city": "Ahmedabad",
+    "capacity" : 49000,
+    "country" : "India"
+  },
+  {
+    "name": "Barabati Stadium",
+    "city": "Cuttack",
+    "capacity" : 45000,
+    "country" : "India"
+  },
+  {
+    "name": "Vidarbha Cricket Association Stadium, Jamtha",
+    "city": "Nagpur",
+    "capacity" : 45000,
+    "country" : "India"
+  },
+  {
+    "name": "Himachal Pradesh Cricket Association Stadium",
+    "city": "Dharamsala",
+    "capacity" : 23000,
+    "country" : "India"
+  },
+  {
+    "name": "Nehru Stadium",
+    "city": "Kochi",
+    "capacity" : 60000,
+    "country" : "India"
+  },
+  {
+    "name": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium",
+    "city": "Visakhapatnam",
+    "capacity" : 27500,
+    "country" : "India"
+  },
+  {
+    "name": "Shaheed Veer Narayan Singh International Stadium",
+    "city": "Raipur",
+    "capacity" :65000 ,
+    "country" : "India"
+  },
+  {
+    "name": "JSCA International Stadium Complex",
+    "city": "Ranchi",
+    "capacity" : 50000,
+    "country" : "India"
+  },
+  {
+    "name": "Sheikh Zayed Stadium",
+    "city": "Abu Dhabi",
+    "capacity" : 20000,
+    "country" : "United Arab Emirates"
+  },
+  {
+    "name": "Sharjah Cricket Stadium",
+    "city": "Sharjah",
+    "capacity" : 16000,
+    "country" : "United Arab Emirates"
+  },
+  {
+    "name": "Dubai International Cricket Stadium",
+    "city": "Dubai",
+    "capacity" : 25000,
+    "country" : "United Arab Emirates"
+  }
+]

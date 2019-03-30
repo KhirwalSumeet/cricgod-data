@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "fullName": "Chennai Super Kings",
+    "shortName": "Super Kings",
+    "abbreviation": "CSK",
+    "type": "m",
+    "primaryColor": "FDB913",
+    "secondaryColor": "0081E5"
+  },
+  {
+    "id": 2,
+    "fullName": "Deccan Chargers",
+    "shortName": "Deccan",
+    "abbreviation": "DEC",
+    "type": "m",
+    "primaryColor": "65727A",
+    "secondaryColor": "FFFFFF"
+  },
+  {
+    "id": 3,
+    "fullName": "Delhi Capitals",
+    "shortName": "Delhi",
+    "abbreviation": "DC",
+    "type": "m",
+    "primaryColor": "004C93",
+    "secondaryColor": "F83430"
+  },
+  {
+    "id": 4,
+    "fullName": "Kings XI Punjab",
+    "shortName": "Kings XI",
+    "abbreviation": "KXIP",
+    "type": "m",
+    "primaryColor": "DA1F3D",
+    "secondaryColor": "FFFFFF"
+  },
+  {
+    "id": 5,
+    "fullName": "Kolkata Knight Riders",
+    "shortName": "Knight Riders",
+    "abbreviation": "KKR",
+    "type": "m",
+    "primaryColor": "6F2C91",
+    "secondaryColor": "FFFFFF"
+  },
+  {
+    "id": 6,
+    "fullName": "Mumbai Indians",
+    "shortName": "Mumbai",
+    "abbreviation": "MI",
+    "type": "m",
+    "primaryColor": "00AEEF",
+    "secondaryColor": "FFFFFF"
+  },
+  {
+    "id": 7,
+    "fullName": "Pune Warriors India",
+    "shortName": "Warriors",
+    "abbreviation": "PWI",
+    "type": "m",
+    "primaryColor": "00719E",
+    "secondaryColor": "FFFFFF"
+  },
+  {
+    "id": 8,
+    "fullName": "Rajasthan Royals",
+    "shortName": "Royals",
+    "abbreviation": "RR",
+    "type": "m",
+    "primaryColor": "004B8C",
+    "secondaryColor": "FFFFFF"
+  },
+  {
+    "id": 9,
+    "fullName": "Royal Challengers Bangalore",
+    "shortName": "Challengers",
+    "abbreviation": "RCB",
+    "type": "m",
+    "primaryColor": "000000",
+    "secondaryColor": "FF3245"
+  },
+  {
+    "id": 10,
+    "fullName": "Kochi Tuskers Kerala",
+    "shortName": "Tuskers",
+    "abbreviation": "KTK",
+    "primaryColor": "FF9F00",
+    "secondaryColor": "FFFFFF"
+  },
+  {
+    "id": 62,
+    "fullName": "Sunrisers Hyderabad",
+    "shortName": "Sunrisers",
+    "abbreviation": "SRH",
+    "type": "m",
+    "primaryColor": "FF9C00",
+    "secondaryColor": "FFFFFF"
+  }
+]

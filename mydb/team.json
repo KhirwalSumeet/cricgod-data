@@ -1,0 +1,100 @@
+[
+  {
+    "id": 1,
+    "name": "Chennai Super Kings",
+    "abbreviation": "CSK",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 2,
+    "name": "Deccan Chargers",
+    "abbreviation": "DEC",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 3,
+    "name": "Delhi Capitals",
+    "abbreviation": "DC",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 4,
+    "name": "Kings XI Punjab",
+    "abbreviation": "KXIP",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 5,
+    "name": "Kolkata Knight Riders",
+    "abbreviation": "KKR",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 6,
+    "name": "Mumbai Indians",
+    "abbreviation": "MI",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 7,
+    "name": "Pune Warriors India",
+    "abbreviation": "PWI",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 8,
+    "name": "Rajasthan Royals",
+    "abbreviation": "RR",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 9,
+    "name": "Royal Challengers Bangalore",
+    "abbreviation": "RCB",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 10,
+    "name": "Kochi Tuskers Kerala",
+    "abbreviation": "KTK",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 11,
+    "name": "Sunrisers Hyderabad",
+    "abbreviation": "SRH",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 38,
+    "name": "Gujarat Lions",
+    "abbreviation": "Gujarat Lions",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 39,
+    "name": "Rising Pune Supergiants",
+    "abbreviation": "Rising Pune Supergiants",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  },
+  {
+    "id": 40,
+    "name": "Pune Warriors",
+    "abbreviation": "Pune Warriors",
+    "createdAt": "2019-03-26T13:35:09.000Z",
+    "updatedAt": "2019-03-26T13:35:09.000Z"
+  }
+]

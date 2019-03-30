@@ -1,0 +1,6077 @@
+[
+  {
+    "id": 1,
+    "name": "Neravanda Aiyappa",
+    "dob": "1979-10-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 2,
+    "name": "Rahul Dravid",
+    "dob": "1973-01-11",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 3,
+    "name": "Jacques Kallis",
+    "dob": "1975-10-16",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 4,
+    "name": "DT Patil",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 5,
+    "name": "Abdur Razzak",
+    "dob": "1982-06-15",
+    "nationality": "Bangladeshi",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 6,
+    "name": "Anil Kumble",
+    "dob": "1970-10-17",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 7,
+    "name": "Misbah-ul-Haq",
+    "dob": "1974-05-28",
+    "nationality": "Pakistani",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 8,
+    "name": "Shivnarine Chanderpaul",
+    "dob": "1974-08-16",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 9,
+    "name": "Praveen Kumar",
+    "dob": "1986-10-02",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 10,
+    "name": "W Jaffer",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 11,
+    "name": "Ashley Noffke",
+    "dob": "1977-04-30",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 12,
+    "name": "Nathan Bracken",
+    "dob": "1977-09-12",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 13,
+    "name": "J Arunkumar",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 14,
+    "name": "SB Joshi",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 15,
+    "name": "KP Appanna",
+    "dob": "1988-12-20",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 16,
+    "name": "Shreevats Goswami",
+    "dob": "1989-05-18",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 17,
+    "name": "Ross Taylor",
+    "dob": "1984-03-08",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 18,
+    "name": "Bharat Chipli",
+    "dob": "1983-01-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 19,
+    "name": "Virat Kohli",
+    "dob": "1988-11-05",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 20,
+    "name": "Zaheer Khan",
+    "dob": "1978-10-07",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 21,
+    "name": "Vinay Kumar",
+    "dob": "1984-02-12",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 22,
+    "name": "Balachandra Akhil",
+    "dob": "1977-10-07",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 23,
+    "name": "Mark Boucher",
+    "dob": "1976-12-03",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 24,
+    "name": "Cameron White",
+    "dob": "1983-08-18",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 25,
+    "name": "Dale Steyn",
+    "dob": "1983-06-27",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 26,
+    "name": "NK Patel",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 27,
+    "name": "Sohail Tanvir",
+    "dob": "1984-12-12",
+    "nationality": "Pakistani",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 28,
+    "name": "Ravindra Jadeja",
+    "dob": "1988-12-06",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 29,
+    "name": "Jaydev Shah",
+    "dob": "1983-05-04",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 30,
+    "name": "Mahesh Rawat",
+    "dob": "1985-10-25",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 31,
+    "name": "Aditya Angle",
+    "dob": "1983-11-02",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 32,
+    "name": "Sumit Khatri",
+    "dob": "1989-07-15",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 33,
+    "name": "Parag More",
+    "dob": "1985-06-08",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 34,
+    "name": "Pankaj Singh",
+    "dob": "1985-05-06",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 35,
+    "name": "Anup Revandkar",
+    "dob": "1987-11-25",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 36,
+    "name": "Gajendra Singh",
+    "dob": "1988-09-10",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 37,
+    "name": "Siddharth Trivedi",
+    "dob": "1982-09-04",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 38,
+    "name": "Graeme Smith",
+    "dob": "1981-02-01",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 39,
+    "name": "JL Langer",
+    "dob": "2012-09-06",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 40,
+    "name": "Mohammad Kaif",
+    "dob": "1980-12-01",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 41,
+    "name": "Yusuf Pathan",
+    "dob": "1982-11-17",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 42,
+    "name": "SA Asnodkar",
+    "dob": "2012-04-27",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 43,
+    "name": "Shane Watson",
+    "dob": "1981-06-17",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 44,
+    "name": "Shane Warne",
+    "dob": "1969-09-13",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 45,
+    "name": "Munaf Patel",
+    "dob": "1983-07-12",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 46,
+    "name": "Morne Morkel",
+    "dob": "1984-10-06",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 47,
+    "name": "Younis Khan",
+    "dob": "1977-11-29",
+    "nationality": "Pakistani",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 48,
+    "name": "Kamran Akmal",
+    "dob": "1982-01-13",
+    "nationality": "Pakistani",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 49,
+    "name": "Dimitri Mascarenhas",
+    "dob": "1977-10-30",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 50,
+    "name": "Dinesh Salunkhe",
+    "dob": "1982-11-12",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 51,
+    "name": "Darren Lehmann",
+    "dob": "1970-02-05",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 52,
+    "name": "T Kohli",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 53,
+    "name": "Abhishek Nayar",
+    "dob": "1983-10-08",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 54,
+    "name": "Ajinkya Rahane",
+    "dob": "1988-06-06",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 55,
+    "name": "Loots Bosman",
+    "dob": "1977-04-14",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 56,
+    "name": "Ankeet Chavan",
+    "dob": "1985-10-28",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 57,
+    "name": "Gaurav Dhiman",
+    "dob": "1986-12-16",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 58,
+    "name": "Ashwell Prince",
+    "dob": "1977-05-28",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 59,
+    "name": "Siddharth Chitnis",
+    "dob": "1987-05-06",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 60,
+    "name": "Pinal Shah",
+    "dob": "2012-02-27",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 61,
+    "name": "Luke Ronchi",
+    "dob": "1981-04-23",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 62,
+    "name": "RV Pawar",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 63,
+    "name": "Lasith Malinga",
+    "dob": "1983-08-28",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 64,
+    "name": "RR Raje",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 65,
+    "name": "VS Yeligati",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 66,
+    "name": "Sanath Jayasuriya",
+    "dob": "1969-06-30",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 67,
+    "name": "Yogesh Takawale",
+    "dob": "1984-11-05",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 68,
+    "name": "Dominic Thornely",
+    "dob": "1978-10-01",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 69,
+    "name": "Dwayne Bravo",
+    "dob": "1983-10-07",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 70,
+    "name": "Dilhara Fernando",
+    "dob": "1979-07-19",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 71,
+    "name": "Andre Nel",
+    "dob": "1977-07-15",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 72,
+    "name": "Shaun Pollock",
+    "dob": "1973-07-16",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 73,
+    "name": "MA Khote",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 74,
+    "name": "Dwayne Smith",
+    "dob": "1983-04-12",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 75,
+    "name": "Sachin Tendulkar",
+    "dob": "1973-04-24",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 76,
+    "name": "Saurabh Tiwary",
+    "dob": "1989-12-30",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 77,
+    "name": "Dhawal Kulkarni",
+    "dob": "1988-12-10",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 78,
+    "name": "Harbhajan Singh",
+    "dob": "1980-07-03",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 79,
+    "name": "Swapnil Singh",
+    "dob": "1991-01-22",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 80,
+    "name": "Ashish Nehra",
+    "dob": "1979-04-29",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 81,
+    "name": "Manish Pandey",
+    "dob": "1989-09-10",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 82,
+    "name": "Robin Uthappa",
+    "dob": "1985-11-11",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 83,
+    "name": "Sourav Ganguly",
+    "dob": "1972-07-08",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 84,
+    "name": "Debabrata Das",
+    "dob": "1986-09-22",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 85,
+    "name": "Aakash Chopra",
+    "dob": "1977-09-19",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 86,
+    "name": "Brendon McCullum",
+    "dob": "1981-09-27",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 87,
+    "name": "Rohan Banerjee",
+    "dob": "1988-12-10",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 88,
+    "name": "Saurasish Lahiri",
+    "dob": "1981-09-09",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 89,
+    "name": "Wriddhiman Saha",
+    "dob": "1984-10-24",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 90,
+    "name": "Iqbal Abdulla",
+    "dob": "1989-12-02",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 91,
+    "name": "Laxmi Ratan Shukla",
+    "dob": "1981-05-06",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 92,
+    "name": "Cheteshwar Pujara",
+    "dob": "1988-01-25",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 93,
+    "name": "Yashpal Singh",
+    "dob": "2012-05-03",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 94,
+    "name": "Shoaib Akhtar",
+    "dob": "1975-08-13",
+    "nationality": "Pakistani",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 95,
+    "name": "Brad Hodge",
+    "dob": "1974-12-29",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 96,
+    "name": "Tatenda Taibu",
+    "dob": "1983-05-14",
+    "nationality": "Zimbabwean",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 97,
+    "name": "Ajantha Mendis",
+    "dob": "1985-03-11",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 98,
+    "name": "Ishant Sharma",
+    "dob": "1988-09-02",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 99,
+    "name": "Umar Gul",
+    "dob": "1984-04-14",
+    "nationality": "Pakistani",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 100,
+    "name": "Salman Butt",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 101,
+    "name": "Ricky Ponting",
+    "dob": "1974-12-19",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 102,
+    "name": "Chris Gayle",
+    "dob": "1979-09-21",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 103,
+    "name": "Ajit Agarkar",
+    "dob": "1977-12-04",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 104,
+    "name": "Ashok Dinda",
+    "dob": "1984-03-25",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 105,
+    "name": "RR Bose",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 106,
+    "name": "Mohammad Hafeez",
+    "dob": "1980-10-17",
+    "nationality": "Pakistani",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 107,
+    "name": "David Hussey",
+    "dob": "1977-07-15",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 108,
+    "name": "Murali Kartik",
+    "dob": "1976-09-11",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 109,
+    "name": "Siddarth Kaul",
+    "dob": "1990-05-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 110,
+    "name": "Rishi Dhawan",
+    "dob": "1990-02-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 111,
+    "name": "K Goel",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 112,
+    "name": "P Dharmani",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 113,
+    "name": "Brett Lee",
+    "dob": "1976-11-08",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 114,
+    "name": "VRV Singh",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 115,
+    "name": "Ramnaresh Sarwan",
+    "dob": "1980-06-23",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 116,
+    "name": "Simon Katich",
+    "dob": "1975-08-21",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 117,
+    "name": "Ajitesh Argal",
+    "dob": "1988-09-21",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 118,
+    "name": "U Kaul",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 119,
+    "name": "Gagandeep Singh",
+    "dob": "1981-10-03",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 120,
+    "name": "WA Mota",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 121,
+    "name": "Sahil Kukreja",
+    "dob": "1985-07-09",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 122,
+    "name": "Nitin Saini",
+    "dob": "1988-10-28",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 123,
+    "name": "Piyush Chawla",
+    "dob": "1988-12-24",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 124,
+    "name": "Ramesh Powar",
+    "dob": "1978-05-20",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 125,
+    "name": "Shanthakumaran Sreesanth",
+    "dob": "1983-02-06",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 126,
+    "name": "Kumar Sangakkara",
+    "dob": "1977-10-27",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 127,
+    "name": "Sunny Sohal",
+    "dob": "1987-11-10",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 128,
+    "name": "James Hopes",
+    "dob": "2012-02-27",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 129,
+    "name": "Tanmay Srivastava",
+    "dob": "1985-11-07",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 130,
+    "name": "Luke Pomersbach",
+    "dob": "1984-09-28",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 131,
+    "name": "Mahela Jayawardene",
+    "dob": "1977-05-27",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 132,
+    "name": "Yuvraj Singh",
+    "dob": "1981-12-12",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 133,
+    "name": "Kyle Mills",
+    "dob": "1979-03-15",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 134,
+    "name": "Irfan Pathan",
+    "dob": "1984-10-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 135,
+    "name": "Shaun Marsh",
+    "dob": "1983-07-09",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 136,
+    "name": "Yogesh Nagar",
+    "dob": "1990-01-06",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 137,
+    "name": "Dinesh Karthik",
+    "dob": "1985-06-01",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 138,
+    "name": "Mayank Tehlan",
+    "dob": "1986-10-11",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 139,
+    "name": "AB de Villiers",
+    "dob": "1984-02-17",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 140,
+    "name": "Shikhar Dhawan",
+    "dob": "1985-12-05",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 141,
+    "name": "Virender Sehwag",
+    "dob": "1978-10-20",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 142,
+    "name": "Yo Mahesh",
+    "dob": "1987-12-21",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 143,
+    "name": "Tillakaratne Dilshan",
+    "dob": "1976-10-14",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 144,
+    "name": "Daniel Vettori",
+    "dob": "1979-01-27",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 145,
+    "name": "Gautam Gambhir",
+    "dob": "1981-10-14",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 146,
+    "name": "Glenn McGrath",
+    "dob": "1970-02-09",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 147,
+    "name": "MF Maharoof",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 148,
+    "name": "Mohammad Asif",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 149,
+    "name": "Brett Geeves",
+    "dob": "1982-06-13",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 150,
+    "name": "Manoj Tiwary",
+    "dob": "1985-11-14",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 151,
+    "name": "Shoaib Malik",
+    "dob": "1982-02-01",
+    "nationality": "Pakistani",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 152,
+    "name": "Tejashwi Yadav",
+    "dob": "1989-11-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 153,
+    "name": "Pradeep Sangwan",
+    "dob": "1990-11-05",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 154,
+    "name": "Rajat Bhatia",
+    "dob": "1979-10-22",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 155,
+    "name": "Mithun Manhas",
+    "dob": "1979-10-12",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 156,
+    "name": "Amit Mishra",
+    "dob": "1982-11-24",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 157,
+    "name": "Adam Gilchrist",
+    "dob": "1971-11-14",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 158,
+    "name": "Arjun Yadav",
+    "dob": "1981-12-23",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 159,
+    "name": "Dwaraka Ravi Teja",
+    "dob": "1987-09-05",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 160,
+    "name": "Pragyan Ojha",
+    "dob": "1986-09-05",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "ORTHODOX"
+  },
+  {
+    "id": 161,
+    "name": "H Das",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 162,
+    "name": "Rohit Sharma",
+    "dob": "1987-04-30",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 163,
+    "name": "DNT Zoysa",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 164,
+    "name": "VVS Laxman",
+    "dob": "2012-04-27",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 165,
+    "name": "PM Sarvesh Kumar",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 166,
+    "name": "LPC Silva",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 167,
+    "name": "Andrew Symonds",
+    "dob": "1975-06-09",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 168,
+    "name": "Shahid Afridi",
+    "dob": "1980-03-01",
+    "nationality": "Pakistani",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 169,
+    "name": "D Kalyankrishna",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 170,
+    "name": "RP Singh",
+    "dob": "1985-12-06",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 171,
+    "name": "DP Vijaykumar",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 172,
+    "name": "Chaminda Vaas",
+    "dob": "1974-01-27",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 173,
+    "name": "SB Bangar",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 174,
+    "name": "Herschelle Gibbs",
+    "dob": "1974-02-23",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 175,
+    "name": "Scott Styris",
+    "dob": "1975-07-10",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 176,
+    "name": "Venugopal Rao",
+    "dob": "1982-02-26",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 177,
+    "name": "MS Dhoni",
+    "dob": "1981-07-07",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 178,
+    "name": "Abhinav Mukund",
+    "dob": "1990-01-06",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 179,
+    "name": "Napoleon Einstein",
+    "dob": "1989-08-16",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 180,
+    "name": "Viraj Kadbe",
+    "dob": "1989-11-18",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 181,
+    "name": "Joginder Sharma",
+    "dob": "1983-10-23",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 182,
+    "name": "Suresh Kumar",
+    "dob": "1985-03-20",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 183,
+    "name": "Ravichandran Ashwin",
+    "dob": "1986-09-17",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 184,
+    "name": "Shadab Jakati",
+    "dob": "1980-11-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 185,
+    "name": "Srikkanth Anirudha",
+    "dob": "1987-04-14",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 186,
+    "name": "Subramaniam Badrinath",
+    "dob": "1980-08-30",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 187,
+    "name": "Sudeep Tyagi",
+    "dob": "1987-09-19",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 188,
+    "name": "Suresh Raina",
+    "dob": "1986-11-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 189,
+    "name": "Michael Hussey",
+    "dob": "1975-05-27",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 190,
+    "name": "Lakshmipathy Balaji",
+    "dob": "1981-09-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 191,
+    "name": "Arun Karthik",
+    "dob": "1986-02-15",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 192,
+    "name": "Albie Morkel",
+    "dob": "1981-06-10",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 193,
+    "name": "Stephen Fleming",
+    "dob": "1973-04-01",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 194,
+    "name": "Makhaya Ntini",
+    "dob": "1977-07-06",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 195,
+    "name": "Matthew Hayden",
+    "dob": "1971-10-29",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 196,
+    "name": "Chamara Kapugedera",
+    "dob": "1987-02-24",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 197,
+    "name": "S Vidyut",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 198,
+    "name": "P Amarnath",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 199,
+    "name": "Jacob Oram",
+    "dob": "1978-07-28",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 200,
+    "name": "Manpreet Gony",
+    "dob": "1984-01-01",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 201,
+    "name": "Parthiv Patel",
+    "dob": "1985-03-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 202,
+    "name": "Muttiah Muralitharan",
+    "dob": "1972-04-17",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 203,
+    "name": "Abhimanyu Mithun",
+    "dob": "1989-10-25",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 204,
+    "name": "Rangaraj Suthesh",
+    "dob": "1987-04-08",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 205,
+    "name": "CM Gautam",
+    "dob": "1986-03-08",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 206,
+    "name": "Saurabh Bandekar",
+    "dob": "1987-11-16",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 207,
+    "name": "Jesse Ryder",
+    "dob": "1984-08-06",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 208,
+    "name": "Udit Patel",
+    "dob": "1984-08-31",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 209,
+    "name": "Jitendra Patil",
+    "dob": "1989-09-09",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 210,
+    "name": "Karn Sharma",
+    "dob": "1987-10-23",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 211,
+    "name": "RK Sabharwal",
+    "dob": "1978-01-08",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 212,
+    "name": "Raju Bhatkal",
+    "dob": "1985-09-01",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 213,
+    "name": "Tinu Yohannan",
+    "dob": "1979-02-18",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 214,
+    "name": "Sreenath Arvind",
+    "dob": "1984-04-08",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 215,
+    "name": "Ishank Jaggi",
+    "dob": "1989-01-27",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 216,
+    "name": "Kedar Jadhav",
+    "dob": "1985-03-26",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 217,
+    "name": "Kevin Pietersen",
+    "dob": "1980-06-27",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 218,
+    "name": "Roelof van der Merwe",
+    "dob": "1984-12-31",
+    "nationality": "Dutch",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 219,
+    "name": "Bhuvneshwar Kumar",
+    "dob": "1990-12-05",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 220,
+    "name": "R Bishnoi",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 221,
+    "name": "D du Preez",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 222,
+    "name": "Abhishek Raut",
+    "dob": "1987-03-03",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 223,
+    "name": "Amit Singh",
+    "dob": "1981-06-21",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 224,
+    "name": "Paras Dogra",
+    "dob": "1984-11-19",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 225,
+    "name": "Paul Valthaty",
+    "dob": "1983-12-07",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 226,
+    "name": "Raiphi Gomez",
+    "dob": "1985-10-16",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 227,
+    "name": "Pushkaraj Chavan",
+    "dob": "1989-05-18",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 228,
+    "name": "Abdulahad Malek",
+    "dob": "1986-08-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 229,
+    "name": "Mohammed Arif",
+    "dob": "1990-09-30",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 230,
+    "name": "Atul Sharma",
+    "dob": "1989-05-01",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 231,
+    "name": "Ashraf Makda",
+    "dob": "1978-08-28",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 232,
+    "name": "Shrideep Mangela",
+    "dob": "1988-04-01",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 233,
+    "name": "Johan Botha",
+    "dob": "1982-05-02",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 234,
+    "name": "Shaun Tait",
+    "dob": "1983-02-22",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 235,
+    "name": "Naman Ojha",
+    "dob": "1983-07-20",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 236,
+    "name": "T Henderson",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 237,
+    "name": "SM Harwood",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 238,
+    "name": "LA Carseldine",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 239,
+    "name": "Kamran Khan",
+    "dob": "1991-03-10",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 240,
+    "name": "Rob Quiney",
+    "dob": "1982-08-20",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 241,
+    "name": "Ryan McLaren",
+    "dob": "1983-02-09",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 242,
+    "name": "C Nanda",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 243,
+    "name": "GR Napier",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 244,
+    "name": "JP Duminy",
+    "dob": "1984-04-14",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 245,
+    "name": "RA Shaikh",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 246,
+    "name": "Mohammad Ashraful",
+    "dob": "1984-07-07",
+    "nationality": "Bangladeshi",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 247,
+    "name": "SS Shaikh",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 248,
+    "name": "Morne van Wyk",
+    "dob": "1979-03-20",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 249,
+    "name": "Moises Henriques",
+    "dob": "1987-02-01",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 250,
+    "name": "Arindam Ghosh",
+    "dob": "1986-10-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 251,
+    "name": "Mashrafe Mortaza",
+    "dob": "1983-10-05",
+    "nationality": "Bangladeshi",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 252,
+    "name": "Charl Langeveldt",
+    "dob": "1974-12-17",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 253,
+    "name": "Angelo Mathews",
+    "dob": "1987-06-02",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 254,
+    "name": "Anureet Singh",
+    "dob": "1982-02-26",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 255,
+    "name": "Burt Cockley",
+    "dob": "1986-04-03",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 256,
+    "name": "Vikramjeet Malik",
+    "dob": "1983-05-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 257,
+    "name": "Amanpreet Singh",
+    "dob": "1989-09-16",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 258,
+    "name": "Ravikant Shukla",
+    "dob": "1987-07-07",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 259,
+    "name": "Ryan Ninan",
+    "dob": "1985-11-19",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 260,
+    "name": "Jerome Taylor",
+    "dob": "1984-06-22",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 261,
+    "name": "YA Abdulla",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 262,
+    "name": "Ravi Bopara",
+    "dob": "1985-05-04",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 263,
+    "name": "Paul Collingwood",
+    "dob": "1976-05-26",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 264,
+    "name": "Andrew McDonald",
+    "dob": "1981-06-05",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 265,
+    "name": "David Warner",
+    "dob": "1986-10-27",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 266,
+    "name": "Dirk Nannes",
+    "dob": "1976-05-16",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 267,
+    "name": "Aavishkar Salvi",
+    "dob": "1981-10-21",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 268,
+    "name": "Owais Shah",
+    "dob": "1978-10-22",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 269,
+    "name": "Umesh Yadav",
+    "dob": "1987-10-25",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 270,
+    "name": "Harmeet Singh Bansal",
+    "dob": "1987-10-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 271,
+    "name": "Azhar Bilakhia",
+    "dob": "1986-05-31",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 272,
+    "name": "Jaskaran Singh",
+    "dob": "1989-09-04",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 273,
+    "name": "Chamara Silva",
+    "dob": "1979-12-14",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 274,
+    "name": "Fidel Edwards",
+    "dob": "1982-02-06",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 275,
+    "name": "Abhinav Kumar",
+    "dob": "1984-11-07",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 276,
+    "name": "Shoaib Ahmed",
+    "dob": "1987-11-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 277,
+    "name": "Manvinder Bisla",
+    "dob": "1984-12-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 278,
+    "name": "Tirumalasetti Suman",
+    "dob": "1983-12-15",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 279,
+    "name": "Ryan Harris",
+    "dob": "1979-10-11",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 280,
+    "name": "Murali Vijay",
+    "dob": "1984-04-01",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 281,
+    "name": "Andrew Flintoff",
+    "dob": "1977-12-06",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 282,
+    "name": "T Thushara",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 283,
+    "name": "George Bailey",
+    "dob": "1982-09-07",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 284,
+    "name": "Eoin Morgan",
+    "dob": "1986-09-10",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 285,
+    "name": "Steve Smith",
+    "dob": "1989-06-02",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 286,
+    "name": "Nayan Doshi",
+    "dob": "2012-02-27",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 287,
+    "name": "S Sriram",
+    "dob": "2012-04-27",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 288,
+    "name": "Shrikant Wagh",
+    "dob": "1988-10-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 289,
+    "name": "Aditya Dole",
+    "dob": "1987-10-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 290,
+    "name": "Amit Paunikar",
+    "dob": "1988-04-18",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 291,
+    "name": "Faiz Fazal",
+    "dob": "1985-09-07",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 292,
+    "name": "Damien Martyn",
+    "dob": "1971-10-21",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 293,
+    "name": "Adam Voges",
+    "dob": "1979-10-04",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 294,
+    "name": "Amit Uniyal",
+    "dob": "1981-11-21",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 295,
+    "name": "Sumit Narwal",
+    "dob": "1982-04-16",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 296,
+    "name": "Abhishek Jhunjhunwala",
+    "dob": "1982-12-01",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 297,
+    "name": "Aaron Finch",
+    "dob": "1986-11-17",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 298,
+    "name": "Michael Lumb",
+    "dob": "1980-12-02",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 299,
+    "name": "Ahmed Quadri",
+    "dob": "1981-12-02",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 300,
+    "name": "Rahul Shukla",
+    "dob": "2012-03-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 301,
+    "name": "Rajagopal Sathish",
+    "dob": "1981-01-14",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 302,
+    "name": "C Madan",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 303,
+    "name": "Kieron Pollard",
+    "dob": "1987-05-12",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 304,
+    "name": "Stuart Binny",
+    "dob": "1984-06-03",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 305,
+    "name": "Abu Nechim",
+    "dob": "1988-11-05",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 306,
+    "name": "Aditya Tare",
+    "dob": "2012-02-27",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 307,
+    "name": "Ambati Rayudu",
+    "dob": "1985-09-23",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 308,
+    "name": "Syed Shahabuddin",
+    "dob": "1979-07-01",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 309,
+    "name": "Ali Murtaza",
+    "dob": "1990-01-01",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 310,
+    "name": "I Malhotra",
+    "dob": "2012-04-27",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 311,
+    "name": "Ganapathi Vignesh",
+    "dob": "1985-09-11",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 312,
+    "name": "Shane Bond",
+    "dob": "1975-06-07",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 313,
+    "name": "Jaydev Unadkat",
+    "dob": "1991-10-18",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 314,
+    "name": "RS Gavaskar",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 315,
+    "name": "Eklak Ahmid",
+    "dob": "1984-10-12",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 316,
+    "name": "Chirag Pathak",
+    "dob": "1987-02-02",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 317,
+    "name": "Harshad Khadiwale",
+    "dob": "1988-10-21",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 318,
+    "name": "Varun Aaron",
+    "dob": "1989-10-29",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 319,
+    "name": "Bipul Sharma",
+    "dob": "1983-09-28",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 320,
+    "name": "Love Ablish",
+    "dob": "2012-02-24",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 321,
+    "name": "RS Sodhi",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 322,
+    "name": "Adrian Barath",
+    "dob": "1990-04-14",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 323,
+    "name": "Shalabh Srivastava",
+    "dob": "1981-09-02",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 324,
+    "name": "Juan Theron",
+    "dob": "1985-07-24",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 325,
+    "name": "Sarabjit Ladda",
+    "dob": "1986-07-10",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 326,
+    "name": "Wayne Parnell",
+    "dob": "1989-07-30",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 327,
+    "name": "Joginder Singh",
+    "dob": "1980-07-11",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 328,
+    "name": "Shashi Ranjan",
+    "dob": "1981-11-02",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 329,
+    "name": "Sarandeep Singh",
+    "dob": "1979-10-21",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 330,
+    "name": "Ashish Reddy",
+    "dob": "1981-02-24",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 331,
+    "name": "Mohnish Mishra",
+    "dob": "1984-02-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 332,
+    "name": "Anirudh Singh",
+    "dob": "1980-08-02",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 333,
+    "name": "Bodapati Sumanth",
+    "dob": "1988-05-10",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 334,
+    "name": "Kemar Roach",
+    "dob": "1988-06-30",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 335,
+    "name": "Mitchell Marsh",
+    "dob": "1991-10-20",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 336,
+    "name": "Rahul Sharma",
+    "dob": "1986-11-30",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 337,
+    "name": "Doug Bollinger",
+    "dob": "1981-07-24",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 338,
+    "name": "C Ganapathy",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 339,
+    "name": "JM Kemp",
+    "dob": "2012-04-30",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 340,
+    "name": "Thisara Perera",
+    "dob": "1989-04-03",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 341,
+    "name": "Hemang Badani",
+    "dob": "1976-11-14",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 342,
+    "name": "Steve O'Keefe",
+    "dob": "1984-12-09",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 343,
+    "name": "P Prasanth",
+    "dob": "2012-04-27",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 344,
+    "name": "Michael Klinger",
+    "dob": "1980-07-04",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 345,
+    "name": "Deepak Chougule",
+    "dob": "1984-04-01",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 346,
+    "name": "P Parameswaran",
+    "dob": "2012-04-27",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 347,
+    "name": "Y Gnaneswara Rao",
+    "dob": "2012-04-27",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 348,
+    "name": "John Hastings",
+    "dob": "1985-11-04",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 349,
+    "name": "Sushant Marathe",
+    "dob": "2012-02-27",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 350,
+    "name": "Abrar Kazi",
+    "dob": "2012-02-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 351,
+    "name": "Syed Mohammad",
+    "dob": "2012-01-01",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 352,
+    "name": "Asad Pathan",
+    "dob": "1984-06-17",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 353,
+    "name": "Mayank Agarwal",
+    "dob": "1991-02-18",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 354,
+    "name": "Jonathan Vandiar",
+    "dob": "1990-04-25",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 355,
+    "name": "JJ van der Wath",
+    "dob": "2012-04-27",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 356,
+    "name": "BN Barath",
+    "dob": "1985-11-01",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 357,
+    "name": "Rilee Rossouw",
+    "dob": "1989-10-09",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 358,
+    "name": "Nuwan Pradeep",
+    "dob": "1986-10-19",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 359,
+    "name": "Ashok Menaria",
+    "dob": "1990-10-29",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 360,
+    "name": "Deepak Chahar",
+    "dob": "1992-08-07",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 361,
+    "name": "Dishant Yagnik",
+    "dob": "1983-06-22",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 362,
+    "name": "Samad Fallah",
+    "dob": "1985-05-02",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 363,
+    "name": "Sachin Rana",
+    "dob": "1984-09-18",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 364,
+    "name": "James Faulkner",
+    "dob": "1990-04-29",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 365,
+    "name": "Alfonso Thomas",
+    "dob": "1977-02-09",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 366,
+    "name": "Callum Ferguson",
+    "dob": "1984-11-21",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 367,
+    "name": "SS Mundhe",
+    "dob": "2012-05-01",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 368,
+    "name": "Nathan McCullum",
+    "dob": "1980-09-01",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 369,
+    "name": "Ganesh Gaikwad",
+    "dob": "1987-12-04",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 370,
+    "name": "Tim Paine",
+    "dob": "1984-12-08",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 371,
+    "name": "Imtiaz Ahmed",
+    "dob": "1985-11-10",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 372,
+    "name": "Dheeraj Jadhav",
+    "dob": "1979-09-16",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 373,
+    "name": "Eklavya Dwivedi ",
+    "dob": "1988-07-22",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 374,
+    "name": "Harpreet Singh",
+    "dob": "1991-08-11",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 375,
+    "name": "Aiden Blizzard",
+    "dob": "1984-06-27",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 376,
+    "name": "Clint McKay",
+    "dob": "1983-02-22",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 377,
+    "name": "Davy Jacobs",
+    "dob": "2012-02-27",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 378,
+    "name": "James Franklin",
+    "dob": "1980-11-07",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 379,
+    "name": "S Kanwar",
+    "dob": "2012-09-06",
+    "nationality": "",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 380,
+    "name": "Pawan Suyal",
+    "dob": "1989-10-15",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 381,
+    "name": "Santosh Yadav",
+    "dob": "1979-10-17",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 382,
+    "name": "Suryakumar Yadav",
+    "dob": "1990-09-14",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 383,
+    "name": "Yuzvendra Chahal",
+    "dob": "1990-07-23",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 384,
+    "name": "Brad Haddin",
+    "dob": "1977-10-23",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 385,
+    "name": "James Pattinson",
+    "dob": "1990-05-03",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 386,
+    "name": "Ryan ten Doeschate",
+    "dob": "1980-06-30",
+    "nationality": "Dutch",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 387,
+    "name": "Shakib Al Hasan",
+    "dob": "1987-03-24",
+    "nationality": "Bangladeshi",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 388,
+    "name": "Mohammed Shami",
+    "dob": "1990-03-09",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 389,
+    "name": "Stuart Broad",
+    "dob": "1986-06-24",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 390,
+    "name": "Amit Yadav",
+    "dob": "1989-10-10",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 391,
+    "name": "Bhargav Bhatt",
+    "dob": "1990-05-13",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 392,
+    "name": "Mandeep Singh",
+    "dob": "1991-12-18",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 393,
+    "name": "Sunny Singh",
+    "dob": "1986-12-18",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 394,
+    "name": "David Miller",
+    "dob": "1989-06-10",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 395,
+    "name": "Nathan Rimmington",
+    "dob": "1982-11-11",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 396,
+    "name": "Ajit Chandila",
+    "dob": "2012-01-01",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 397,
+    "name": "Robbie Frylinck",
+    "dob": "1984-09-27",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 398,
+    "name": "Matthew Wade",
+    "dob": "1987-12-26",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 399,
+    "name": "Colin Ingram",
+    "dob": "1985-07-03",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 400,
+    "name": "Vivek Yadav",
+    "dob": "1984-12-09",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 401,
+    "name": "Travis Birt",
+    "dob": "1981-12-09",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 402,
+    "name": "Prashant Naik",
+    "dob": "1986-09-02",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 403,
+    "name": "Robin Bist",
+    "dob": "1987-11-02",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 404,
+    "name": "Shahbaz Nadeem",
+    "dob": "1989-08-12",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 405,
+    "name": "Unmukt Chand",
+    "dob": "1993-03-26",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 406,
+    "name": "Vikas Mishra",
+    "dob": "1992-12-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 407,
+    "name": "Akash Bhandari",
+    "dob": "1983-06-10",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 408,
+    "name": "Anand Rajan",
+    "dob": "1987-04-17",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 409,
+    "name": "Ankit Sharma",
+    "dob": "1991-04-20",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 410,
+    "name": "Kedar Devdhar",
+    "dob": "2012-02-24",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 411,
+    "name": "Chris Lynn",
+    "dob": "1990-04-10",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 412,
+    "name": "Dan Christian",
+    "dob": "1983-05-04",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 413,
+    "name": "Kuthethur Vasudevadas",
+    "dob": "1985-01-26",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 414,
+    "name": "Ben Hilfenhaus",
+    "dob": "1983-03-15",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 415,
+    "name": "Suraj Randiv",
+    "dob": "1985-01-30",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 416,
+    "name": "Nuwan Kulasekara",
+    "dob": "1982-07-22",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 417,
+    "name": "Faf du Plessis",
+    "dob": "1984-07-13",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 418,
+    "name": "Tim Southee",
+    "dob": "1988-12-11",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 419,
+    "name": "Karun Nair",
+    "dob": "1991-12-06",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 420,
+    "name": "Vijay Zol",
+    "dob": "1994-11-23",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 421,
+    "name": "S Thiyagrajan",
+    "dob": "2012-01-01",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 422,
+    "name": "Harshal Patel",
+    "dob": "1990-11-23",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 423,
+    "name": "Dinesh Chandimal",
+    "dob": "1989-11-18",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 424,
+    "name": "Brad Hogg",
+    "dob": "1971-02-06",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 425,
+    "name": "Kevon Cooper",
+    "dob": "1989-02-02",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 426,
+    "name": "Anustup Majumdar",
+    "dob": "1984-04-30",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 427,
+    "name": "Krishnakant Upadhyay",
+    "dob": "1986-06-18",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 428,
+    "name": "Marlon Samuels",
+    "dob": "1981-01-05",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 429,
+    "name": "Luke Wright",
+    "dob": "1985-03-07",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 430,
+    "name": "Michael Clarke",
+    "dob": "1981-04-02",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 431,
+    "name": "Tamim Iqbal",
+    "dob": "1989-03-20",
+    "nationality": "Bangladeshi",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 432,
+    "name": "Amitoze Singh",
+    "dob": "2012-03-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 433,
+    "name": "Kuldeep Yadav",
+    "dob": "1994-12-14",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 434,
+    "name": "Sujit Nayak",
+    "dob": "1989-06-23",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 435,
+    "name": "Apporv Wankhade",
+    "dob": "1992-03-14",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 436,
+    "name": "Richard Levi",
+    "dob": "1988-01-14",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 437,
+    "name": "Mitchell Johnson",
+    "dob": "1981-11-02",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 438,
+    "name": "Robin Peterson",
+    "dob": "1979-08-04",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 439,
+    "name": "Chirag Jani",
+    "dob": "1989-11-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 440,
+    "name": "Iresh Saxena",
+    "dob": "1984-03-14",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 441,
+    "name": "Sanju Samson",
+    "dob": "1994-11-11",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 442,
+    "name": "Sunil Narine",
+    "dob": "1988-05-26",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 443,
+    "name": "Marchant de Lange",
+    "dob": "1990-10-13",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 444,
+    "name": "Azhar Mahmood",
+    "dob": "1975-02-28",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 445,
+    "name": "Kyle Abbott",
+    "dob": "1987-06-18",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 446,
+    "name": "Ben Cutting",
+    "dob": "1987-01-30",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 447,
+    "name": "Gurkeerat Mann Singh",
+    "dob": "1990-06-29",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 448,
+    "name": "Parvinder Awana",
+    "dob": "1986-07-19",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 449,
+    "name": "Glenn Maxwell",
+    "dob": "1988-10-14",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 450,
+    "name": "Gulam Bodi",
+    "dob": "1979-01-04",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 451,
+    "name": "Doug Bracewell",
+    "dob": "1990-09-28",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 452,
+    "name": "Andre Russell",
+    "dob": "1988-04-29",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 453,
+    "name": "Kuldeep Raval",
+    "dob": "1985-11-30",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 454,
+    "name": "Manpreet Juneja",
+    "dob": "1990-09-12",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 455,
+    "name": "Pawan Negi",
+    "dob": "1983-01-06",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 456,
+    "name": "Puneet Bisht",
+    "dob": "1986-06-15",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 457,
+    "name": "Sunny Gupta",
+    "dob": "1988-09-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 458,
+    "name": "Zafir Patel",
+    "dob": "1991-09-14",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 459,
+    "name": "Akshath Reddy",
+    "dob": "1991-02-11",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 460,
+    "name": "Sneha Kishore",
+    "dob": "1993-12-31",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 461,
+    "name": "Tanmay Mishra",
+    "dob": "1986-12-22",
+    "nationality": "Kenyan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 462,
+    "name": "TP Sudhindra",
+    "dob": "1984-04-24",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 463,
+    "name": "Atchuta Rao",
+    "dob": "1986-08-21",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 464,
+    "name": "Darren Bravo",
+    "dob": "1989-02-06",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 465,
+    "name": "Daniel Harris",
+    "dob": "1975-12-31",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 466,
+    "name": "Biplap Samantray",
+    "dob": "1988-12-14",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 467,
+    "name": "Veer Pratap Singh",
+    "dob": "1992-05-03",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 468,
+    "name": "Quinton de Kock",
+    "dob": "1992-12-17",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 469,
+    "name": "Darren Sammy",
+    "dob": "1983-12-20",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 470,
+    "name": "Hanuma Vihari",
+    "dob": "1993-10-13",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 471,
+    "name": "Thalaivan Sargunam",
+    "dob": "1985-05-15",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 472,
+    "name": "Prasanth Padmanabhan",
+    "dob": "1985-05-22",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 473,
+    "name": "Sandeep Warrier",
+    "dob": "1991-04-04",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 474,
+    "name": "Ravi Rampaul",
+    "dob": "1984-10-15",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 475,
+    "name": "Sheldon Jackson",
+    "dob": "1986-09-27",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 476,
+    "name": "Prasanth Parameswaran",
+    "dob": "1985-05-30",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 477,
+    "name": "Christopher Barnwell",
+    "dob": "1987-01-06",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 478,
+    "name": "Lokesh Rahul",
+    "dob": "1992-04-18",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 479,
+    "name": "Harmeet Singh",
+    "dob": "1992-09-07",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 480,
+    "name": "Kushal Janith Perera",
+    "dob": "2012-09-06",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 481,
+    "name": "Samuel Badree",
+    "dob": "1981-03-09",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 482,
+    "name": "Pravin Tambe",
+    "dob": "1971-10-08",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 483,
+    "name": "Sachin Baby",
+    "dob": "1988-12-18",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 484,
+    "name": "Kumar Boresa",
+    "dob": "1995-08-29",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 485,
+    "name": "Udit Birla",
+    "dob": "1989-11-17",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 486,
+    "name": "Ishwar Pandey",
+    "dob": "1989-08-15",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 487,
+    "name": "Parveez Rasool",
+    "dob": "1989-02-13",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 488,
+    "name": "Kane Richardson",
+    "dob": "1991-02-12",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 489,
+    "name": "Phil Hughes",
+    "dob": "1988-11-30",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 490,
+    "name": "Nathan Coulter-Nile",
+    "dob": "1987-10-11",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 491,
+    "name": "Axar Patel",
+    "dob": "1994-01-20",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 492,
+    "name": "Javed Khan",
+    "dob": "1990-10-20",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 493,
+    "name": "Jasprit Bumrah",
+    "dob": "1993-12-06",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 494,
+    "name": "Jalaj Saxena",
+    "dob": "1986-12-15",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 495,
+    "name": "Sachithra Senanayake",
+    "dob": "1985-02-09",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 496,
+    "name": "Michael Neser",
+    "dob": "1990-03-29",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 497,
+    "name": "Aniket Choudhary",
+    "dob": "1990-01-28",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 498,
+    "name": "Sandeep Sharma",
+    "dob": "1993-05-18",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 499,
+    "name": "Manan Vohra",
+    "dob": "1993-07-18",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 500,
+    "name": "Ben Rohrer",
+    "dob": "1981-03-26",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 501,
+    "name": "Arisht Singhvi",
+    "dob": "2013-03-06",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 502,
+    "name": "Royston Dias",
+    "dob": "1993-06-30",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 503,
+    "name": "Jeevan Mendis",
+    "dob": "1983-01-15",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 504,
+    "name": "Chris Morris",
+    "dob": "1987-04-30",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 505,
+    "name": "Akila Dananjaya",
+    "dob": "1993-10-04",
+    "nationality": "Sri Lankan",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 506,
+    "name": "Ankit Rajpoot",
+    "dob": "1993-12-04",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 507,
+    "name": "Mohit Sharma",
+    "dob": "1991-12-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 508,
+    "name": "R Karthikeyan",
+    "dob": "1993-01-26",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 509,
+    "name": "Ronit More",
+    "dob": "1992-02-11",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 510,
+    "name": "Ben Laughlin",
+    "dob": "1982-10-03",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 511,
+    "name": "Jason Holder",
+    "dob": "1991-11-05",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 512,
+    "name": "Vijay Shankar",
+    "dob": "1991-01-26",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 513,
+    "name": "Baba Aparajith",
+    "dob": "1994-07-08",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 514,
+    "name": "Brendan Taylor",
+    "dob": "1986-02-06",
+    "nationality": "Zimbabwean",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 515,
+    "name": "Ricky Bhui",
+    "dob": "1996-09-29",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 516,
+    "name": "Chama Milind",
+    "dob": "1994-09-04",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 517,
+    "name": "Mitchell Starc",
+    "dob": "1990-01-30",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 518,
+    "name": "Nic Maddinson",
+    "dob": "1991-12-21",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 519,
+    "name": "A Mishra",
+    "dob": "1991-11-11",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 520,
+    "name": "Deepak Hooda",
+    "dob": "1995-04-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 521,
+    "name": "Rahul Tewatia",
+    "dob": "1993-05-20",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 522,
+    "name": "Ankush Bains",
+    "dob": "1995-12-16",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 523,
+    "name": "Corey Anderson",
+    "dob": "1990-12-13",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 524,
+    "name": "Lendl Simmons",
+    "dob": "1985-01-25",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 525,
+    "name": "Krishmar Santokie",
+    "dob": "1984-12-20",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 526,
+    "name": "Shreyas Gopal",
+    "dob": "1993-09-04",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 527,
+    "name": "Ben Dunk",
+    "dob": "1987-03-11",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 528,
+    "name": "Josh Hazlewood",
+    "dob": "1991-01-08",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 529,
+    "name": "Pat Cummins",
+    "dob": "1993-05-08",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 530,
+    "name": "Sayan Mondal",
+    "dob": "1989-11-10",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 531,
+    "name": "Karanveer Singh",
+    "dob": "1987-11-08",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 532,
+    "name": "Shivam Sharma",
+    "dob": "1993-09-09",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 533,
+    "name": "Shardul Thakur",
+    "dob": "1991-10-16",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 534,
+    "name": "Beuran Hendricks",
+    "dob": "1990-06-08",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 535,
+    "name": "Imran Tahir",
+    "dob": "1979-03-27",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 536,
+    "name": "Jimmy Neesham",
+    "dob": "1990-09-17",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 537,
+    "name": "Jayant Yadav",
+    "dob": "1990-01-22",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 538,
+    "name": "HS Sharath",
+    "dob": "1993-06-02",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 539,
+    "name": "Milind Kumar",
+    "dob": "1991-02-15",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 540,
+    "name": "Matt Henry",
+    "dob": "1991-12-14",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 541,
+    "name": "Trent Boult",
+    "dob": "1989-07-22",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 542,
+    "name": "Kane Williamson",
+    "dob": "1990-08-08",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 543,
+    "name": "Sarfaraz Khan",
+    "dob": "1997-10-22",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 544,
+    "name": "David Wiese",
+    "dob": "1985-05-18",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 545,
+    "name": "Sean Abbott",
+    "dob": "1992-02-29",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 546,
+    "name": "Adam Milne",
+    "dob": "1992-04-13",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 547,
+    "name": "Shishir Bhavane",
+    "dob": "1991-09-24",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 548,
+    "name": "Pradeep Sahu",
+    "dob": "1985-08-21",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 549,
+    "name": "Barinder Sran",
+    "dob": "1992-12-10",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 550,
+    "name": "Sagar Trivedi",
+    "dob": "1991-10-20",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 551,
+    "name": "Colin Munro",
+    "dob": "1987-03-11",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 552,
+    "name": "Mitchell McClenaghan",
+    "dob": "1986-06-11",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 553,
+    "name": "Akshay Wakhare",
+    "dob": "1985-10-03",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 554,
+    "name": "Nitish Rana",
+    "dob": "1993-12-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 555,
+    "name": "Siddhesh Lad",
+    "dob": "1992-05-23",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 556,
+    "name": "Hardik Pandya",
+    "dob": "1993-10-11",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 557,
+    "name": "Jagadeesha Suchith",
+    "dob": "1994-01-16",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 558,
+    "name": "Alex Hales",
+    "dob": "1989-01-03",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 559,
+    "name": "Aditya Garhwal",
+    "dob": "1996-04-15",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 560,
+    "name": "KC Cariappa",
+    "dob": "1994-04-13",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 561,
+    "name": "Vaibhav Rawal",
+    "dob": "1991-11-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 562,
+    "name": "Nikhil Naik",
+    "dob": "1994-11-09",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 563,
+    "name": "Yogesh Golwalkar",
+    "dob": "1980-02-13",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 564,
+    "name": "Marcus Stoinis",
+    "dob": "1989-08-16",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 565,
+    "name": "Shreyas Iyer",
+    "dob": "1994-12-06",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 566,
+    "name": "Srikar Bharat",
+    "dob": "1993-10-03",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 567,
+    "name": "KK Jiyas",
+    "dob": "1991-10-21",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 568,
+    "name": "Domnic Joseph",
+    "dob": "1981-03-09",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 569,
+    "name": "Gurinder Sandhu",
+    "dob": "1993-02-14",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 570,
+    "name": "Travis Head",
+    "dob": "1993-12-29",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 571,
+    "name": "Andrew Tye",
+    "dob": "1986-12-12",
+    "nationality": "Australian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 572,
+    "name": "Pratyush Singh",
+    "dob": "1994-09-04",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 573,
+    "name": "Mustafizur Rahman",
+    "dob": "1995-09-06",
+    "nationality": "Bangladeshi",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 574,
+    "name": "Chris Jordan",
+    "dob": "1988-10-04",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 575,
+    "name": "Tabraiz Shamsi",
+    "dob": "1990-02-18",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 576,
+    "name": "Praveen Dubey",
+    "dob": "1993-07-01",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 577,
+    "name": "Akshay Karnewar",
+    "dob": "1992-10-12",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 578,
+    "name": "Vikas Tokas",
+    "dob": "1986-10-16",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 579,
+    "name": "Kishore Kamath",
+    "dob": "1995-01-31",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 580,
+    "name": "Krunal Pandya",
+    "dob": "1991-03-24",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 581,
+    "name": "Martin Guptill",
+    "dob": "1986-09-30",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 582,
+    "name": "Deepak Punia",
+    "dob": "1993-09-27",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 583,
+    "name": "Jitesh Sharma",
+    "dob": "1993-10-22",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 584,
+    "name": "Nathu Singh",
+    "dob": "1995-09-08",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 585,
+    "name": "Jos Buttler",
+    "dob": "1990-09-08",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 586,
+    "name": "Manan Sharma",
+    "dob": "1991-03-19",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 587,
+    "name": "Hashim Amla",
+    "dob": "1983-03-31",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 588,
+    "name": "Farhaan Behardien",
+    "dob": "1983-10-09",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 589,
+    "name": "Armaan Jaffer",
+    "dob": "1998-10-25",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 590,
+    "name": "Carlos Brathwaite",
+    "dob": "1988-07-18",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 591,
+    "name": "Sam Billings",
+    "dob": "1991-06-15",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 592,
+    "name": "Khaleel Ahmed",
+    "dob": "1997-12-05",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 593,
+    "name": "Akhil Herwadkar",
+    "dob": "1994-10-31",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 594,
+    "name": "Mahipal Lomror",
+    "dob": "1999-11-16",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 595,
+    "name": "Rishabh Pant",
+    "dob": "1997-10-04",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 596,
+    "name": "Mohammed Siraj",
+    "dob": "1994-03-13",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 597,
+    "name": "Rashid Khan",
+    "dob": "1998-09-20",
+    "nationality": "Afghan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 598,
+    "name": "Mohammad Nabi",
+    "dob": "1985-01-01",
+    "nationality": "Afghan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 599,
+    "name": "Tanmay Agarwal",
+    "dob": "1995-05-03",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 600,
+    "name": "Billy Stanlake",
+    "dob": "1994-11-04",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 601,
+    "name": "Vishnu Vinod",
+    "dob": "1993-12-02",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 602,
+    "name": "Tymal Mills",
+    "dob": "1992-08-12",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 603,
+    "name": "Avesh Khan",
+    "dob": "1996-12-13",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 604,
+    "name": "Asela Gunaratne",
+    "dob": "1986-01-08",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 605,
+    "name": "Nicholas Pooran",
+    "dob": "1995-10-02",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 606,
+    "name": "Krishnappa Gowtham",
+    "dob": "1988-10-20",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 607,
+    "name": "Kulwant Khejroliya",
+    "dob": "1995-03-02",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 608,
+    "name": "Rovman Powell",
+    "dob": "1993-07-23",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 609,
+    "name": "Chris Woakes",
+    "dob": "1989-03-02",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 610,
+    "name": "Colin de Grandhomme",
+    "dob": "1986-07-22",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 611,
+    "name": "Sayan Ghosh",
+    "dob": "1992-09-16",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 612,
+    "name": "R Sanjay Yadav",
+    "dob": "1998-09-16",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "ORTHODOX"
+  },
+  {
+    "id": 613,
+    "name": "Rinku Singh",
+    "dob": "1997-10-12",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 614,
+    "name": "T Natarajan",
+    "dob": "1991-05-27",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 615,
+    "name": "Kagiso Rabada",
+    "dob": "1995-05-25",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 616,
+    "name": "CV Milind",
+    "dob": "1994-09-04",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 617,
+    "name": "Ankit Bawne",
+    "dob": "1992-12-17",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 618,
+    "name": "Navdeep Saini",
+    "dob": "1992-11-23",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 619,
+    "name": "Murugan Ashwin",
+    "dob": "1990-09-08",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 620,
+    "name": "Shashank Singh",
+    "dob": "1991-11-21",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 621,
+    "name": "Mehdi Hasan",
+    "dob": "1990-02-03",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "ORTHODOX"
+  },
+  {
+    "id": 622,
+    "name": "Basil Thampi",
+    "dob": "1993-09-11",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 623,
+    "name": "Moeen Ali",
+    "dob": "1987-06-18",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 624,
+    "name": "Aniruddha Joshi",
+    "dob": "1987-11-07",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 625,
+    "name": "Pavan Deshpande",
+    "dob": "1989-09-16",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 626,
+    "name": "Washington Sundar",
+    "dob": "1999-10-05",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 627,
+    "name": "Ben Stokes",
+    "dob": "1991-06-04",
+    "nationality": "English",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 628,
+    "name": "Jofra Archer",
+    "dob": "1995-04-01",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 629,
+    "name": "D'Arcy Short",
+    "dob": "1990-08-09",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "UNORTHODOX"
+  },
+  {
+    "id": 630,
+    "name": "Dushmantha Chameera",
+    "dob": "1992-01-11",
+    "nationality": "Sri Lankan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 631,
+    "name": "Sudhesan Midhun",
+    "dob": "1994-10-07",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 632,
+    "name": "Ish Sodhi",
+    "dob": "1992-10-31",
+    "nationality": "New Zealander",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 633,
+    "name": "Prashant Chopra",
+    "dob": "1992-10-07",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 634,
+    "name": "Jatin Saxena",
+    "dob": "1982-08-04",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 635,
+    "name": "Aryaman Birla",
+    "dob": "1997-07-09",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "ORTHODOX"
+  },
+  {
+    "id": 636,
+    "name": "Heinrich Klaasen",
+    "dob": "1991-07-30",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 637,
+    "name": "Rahul Tripathi",
+    "dob": "1991-03-02",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 638,
+    "name": "Tajinder Singh",
+    "dob": "1992-05-25",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 639,
+    "name": "Sharad Lumba",
+    "dob": "1989-09-10",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 640,
+    "name": "Mayank Markande",
+    "dob": "1997-11-11",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 641,
+    "name": "Mohsin Khan",
+    "dob": "1998-07-15",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 642,
+    "name": "MD Nidheesh",
+    "dob": "1991-05-05",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 643,
+    "name": "Ishan Kishan",
+    "dob": "1998-07-18",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 644,
+    "name": "Evin Lewis",
+    "dob": "1991-12-27",
+    "nationality": "West Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 645,
+    "name": "Rahul Chahar",
+    "dob": "1999-08-04",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "LEG_SPIN"
+  },
+  {
+    "id": 646,
+    "name": "Anukul Roy",
+    "dob": "1998-11-30",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "ORTHODOX"
+  },
+  {
+    "id": 647,
+    "name": "Javon Searles",
+    "dob": "1986-12-21",
+    "nationality": "West Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 648,
+    "name": "Shivam Mavi",
+    "dob": "1998-11-26",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 649,
+    "name": "Cameron Delport",
+    "dob": "1989-05-12",
+    "nationality": "South African",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 650,
+    "name": "Prasidh Krishna",
+    "dob": "1996-02-19",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 651,
+    "name": "Shubman Gill",
+    "dob": "1999-09-08",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 652,
+    "name": "Tom Curran",
+    "dob": "1995-03-12",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 653,
+    "name": "Ben Dwarshuis",
+    "dob": "1994-06-23",
+    "nationality": "Australian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 654,
+    "name": "Akshdeep Nath",
+    "dob": "1993-05-10",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 655,
+    "name": "Mayank Dagar",
+    "dob": "1996-11-11",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 656,
+    "name": "Mujeeb Ur Rahman",
+    "dob": "2001-03-28",
+    "nationality": "Afghan",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 657,
+    "name": "Manzoor Dar",
+    "dob": "1993-11-01",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 658,
+    "name": "Sandeep Lamichhane",
+    "dob": "2000-08-14",
+    "nationality": "Nepalese",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 659,
+    "name": "Manjot Kalra",
+    "dob": "1999-01-15",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 660,
+    "name": "Abhishek Sharma",
+    "dob": "2000-09-04",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "ORTHODOX"
+  },
+  {
+    "id": 661,
+    "name": "Liam Plunkett",
+    "dob": "1985-04-06",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "FAST_SEAM"
+  },
+  {
+    "id": 662,
+    "name": "Jason Roy",
+    "dob": "1990-07-21",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 663,
+    "name": "Prithvi Shaw",
+    "dob": "1999-11-09",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 664,
+    "name": "Junior Dala",
+    "dob": "1989-12-29",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 665,
+    "name": "David Willey",
+    "dob": "1990-02-28",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 666,
+    "name": "Narayan Jagadeesan",
+    "dob": "1995-12-24",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 667,
+    "name": "KM Asif",
+    "dob": "1993-07-24",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 668,
+    "name": "Dhruv Shorey",
+    "dob": "1992-06-05",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "OFF_SPIN"
+  },
+  {
+    "id": 669,
+    "name": "Monu Kumar",
+    "dob": "1994-11-05",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 670,
+    "name": "Kshitiz Sharma",
+    "dob": "1990-04-21",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 671,
+    "name": "Chaitanya Bishnoi",
+    "dob": "1994-08-25",
+    "nationality": "Indian",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "ORTHODOX"
+  },
+  {
+    "id": 672,
+    "name": "Lungi Ngidi",
+    "dob": "1996-03-29",
+    "nationality": "South African",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "RIGHT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 673,
+    "name": "Kanishk Seth",
+    "dob": "1997-11-04",
+    "nationality": "Indian",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "MEDIUM_SEAM"
+  },
+  {
+    "id": 674,
+    "name": "Mitchell Santner",
+    "dob": "1992-02-05",
+    "nationality": "New Zealander",
+    "batting_hand": "LEFT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  },
+  {
+    "id": 675,
+    "name": "Mark Wood",
+    "dob": "1990-01-11",
+    "nationality": "English",
+    "batting_hand": "RIGHT",
+    "bowling_hand": "LEFT",
+    "bowling_style": "NONE"
+  }
+]
